@@ -28,5 +28,5 @@ Feel free to check out my coding projects, connect with me on [LinkedIn](https:/
 ---
 ![JavaScript](https://skillicons.dev/icons?i=js) ![Java](https://skillicons.dev/icons?i=java) ![ReactJS](https://skillicons.dev/icons?i=react) ![Figma](https://skillicons.dev/icons?i=figma) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 ---
-
 ![Your Github Stats](https://github-readme-stats.vercel.app/api?username=tommys0&show_icons=true&hide_border=true)
+---
