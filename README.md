@@ -1,6 +1,7 @@
 # Hey there! I'm Tommy! 🌟
 
-Welcome to my coding little corner! I'm just a high school student going through the world of coding and loving every bit of it.
+Welcome to my coding little corner! 
+Well I'm just a high school student going through the world of coding and loving every bit of it.
 
 ## About Me
 
@@ -8,22 +9,24 @@ Welcome to my coding little corner! I'm just a high school student going through
 
 I'm all about turning my ideas into real projects. My morning coffee, music and coding.
 
+- [x] HTML
+- [x] CSS
+- [x] JS
+- [x] REACT
+- [ ] JAVA
+
 ## What You'll Find Here
 
 - 🚀 My awesome begginer projects (html, css, js, react, java)
 - 🎧 My latest jam on Spotify
 - 🎨 Maybe some of my figma ideas?
+- 🎧 My cool music taste (I hope you like it)
 
 ## Let's Connect!
 
-Feel free to check out my coding escapades below, connect with me on [LinkedIn](https://www.linkedin.com/in/tomáš-dvořáček-4a3383280/), or drop me an [email](mailto:dvoracek.tomas@outlook.com). Catch me on Discord (@tommyasek) for some teach talk or a new friend!
+Feel free to check out my coding projects, connect with me on [LinkedIn](https://www.linkedin.com/in/tomáš-dvořáček-4a3383280/), or drop me an [email](mailto:dvoracek.tomas@outlook.com). Catch me on Discord (@tommyasek) for some teach talk or a new friend!
 
-- JavaScript ![JavaScript](https://skillicons.dev/icons?i=js)  
-- Java ![Java](https://skillicons.dev/icons?i=java)  
-- ReactJS ![ReactJS](https://skillicons.dev/icons?i=react)  
-- Figma ![Figma](https://skillicons.dev/icons?i=figma)  
-- HTML ![HTML](https://skillicons.dev/icons?i=html)  
-- CSS ![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js) ![Java](https://skillicons.dev/icons?i=java) ![ReactJS](https://skillicons.dev/icons?i=react) ![Figma](https://skillicons.dev/icons?i=figma) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
 
 
