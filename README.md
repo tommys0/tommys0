@@ -1,13 +1,13 @@
 # Hey there! I'm Tommy! 🌟
 
-Welcome to my coding little corner! 
+Welcome to my little coding corner! 
 Well I'm just a high school student going through the world of coding and loving every bit of it.
 
 ## About Me
 
 🎓 High School Coder | 💻 Java Enthusiast | 🎨 Frontend Explorer
 
-I'm all about turning my ideas into real projects. My morning coffee, music and coding.
+I'm all about turning my ideas into real projects. Me, my morning coffee, music and coding.
 
 - [x] HTML
 - [x] CSS
