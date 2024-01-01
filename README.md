@@ -21,7 +21,7 @@ I'm all about turning my ideas into real projects. Me, my morning coffee, music 
 - 🎧 My latest jam on Spotify
 - 🎨 Maybe some of my figma ideas?
 
-## Let's Connect!
+## Contact
 
 Feel free to check out my coding projects, connect with me on [LinkedIn](https://www.linkedin.com/in/tomáš-dvořáček-4a3383280/), or drop me an [email](mailto:dvoracek.tomas@outlook.com). Catch me on Discord (@tommyasek) for some teach talk or a new friend!
 
