@@ -27,13 +27,15 @@ Feel free to check out my coding projects, connect with me on [LinkedIn](https:/
 
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" style="margin: 0 10px;" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="margin: 0 10px;" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" style="margin: 0 10px;" />
 </p>
----
-![Your Github Stats](https://github-readme-stats.vercel.app/api?username=tommys0&show_icons=true&hide_border=true)
----
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tommys0&show_icons=true&hide_border=true" alt="GitHub Issues"> 
+</p>
+
