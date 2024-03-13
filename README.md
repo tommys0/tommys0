@@ -12,7 +12,7 @@ I'm all about turning my ideas into real projects. Me, my morning coffee, music 
 - [x] HTML
 - [x] CSS
 - [x] JS
-- [x] REACT
+- [x] NEXT.JS
 - [ ] JAVA
 
 ## What You'll Find Here
