@@ -11,9 +11,11 @@ I'm all about turning my ideas into real projects. Me, my morning coffee, music 
 
 - [x] HTML
 - [x] CSS
+- [ ] TAILWIND CSS
 - [x] JS
 - [x] NEXT.JS
 - [ ] JAVA
+- [ ] PYTHON
 
 ## What You'll Find Here
 
