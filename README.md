@@ -11,17 +11,15 @@ I'm all about turning my ideas into real projects. Me, my morning coffee, music 
 
 - [x] HTML
 - [x] CSS
-- [ ] TAILWIND CSS
+- [x] TAILWIND CSS
 - [x] JS
 - [x] NEXT.JS
-- [ ] JAVA
-- [ ] PYTHON
+- [x] JAVA
+- [x] PYTHON
 
 ## What You'll Find Here
 
-- 🚀 My awesome begginer projects (html, css, js, react, java)
-- 🎧 My latest jam on Spotify
-- 🎨 Maybe some of my figma ideas?
+- 🚀 My awesome projects
 
 ## Contact
 
