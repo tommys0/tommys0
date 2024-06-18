@@ -5,7 +5,7 @@ Well I'm just a high school student going through the world of coding but I love
 
 ## About Me
 
-🎓 High School Coder | 💻 Java Enthusiast | 🎨 Frontend begginer
+🎓 High School Coder | 💻 Frontend Dev
 
 I'm all about turning my ideas into real projects. Me, my morning coffee, music and coding.
 
