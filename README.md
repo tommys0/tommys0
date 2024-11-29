@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on blog website.<br>I'm currently learning back-end technologies.<br>Ask me about web development.<br>Fun fact: I'm also a traveller & photographer and I have a social life.
+I'm currently working on AI-driven web app.<br>Learning back-end technologies.<br>Ask me about web development.<br>Fun fact: I'm also a traveller & photographer and I do have a social life.
 
 
 ## 🌐 Socials:
